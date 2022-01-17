@@ -1,0 +1,13 @@
+,strategy,currency_name,timeframe,optimized_period,total_orders,profit,max_drawdown,profit-factor,order_type,enter_point,tp,sl,%_wins,streak
+0,bearish_engulfing,euraud,1day,all time,231,9373.0,-396.0,23.7,sell limit,0.003,0.04,0.001,12,"[-9, -9, 400, -9, -9, -9, 400, -9, -9, 400]"
+1,bearish_engulfing,euraud,1day,all time,231,9065.0,-396.0,22.9,sell limit,0.003,0.039,0.001,12,"[-9, -9, 389, -9, -9, -9, 389, -9, -9, 389]"
+2,bearish_engulfing,euraud,1day,all time,242,8865.0,-306.0,29.0,sell limit,0.001,0.04,0.001,11,"[-9, -9, 400, -9, -9, -9, 400, -9, -9, -9]"
+3,bearish_engulfing,euraud,1day,all time,232,8731.0,-288.0,30.3,sell limit,0.003,0.034,0.001,13,"[-9, -9, 340, -9, -9, -9, 340, -9, -9, 340]"
+4,bearish_engulfing,euraud,1day,all time,242,8568.0,-306.0,28.0,sell limit,0.001,0.039,0.001,11,"[-9, -9, 389, -9, -9, -9, 389, -9, -9, -9]"
+5,bearish_engulfing,euraud,1day,all time,231,8505.0,-396.0,21.5,sell limit,0.003,0.037,0.001,12,"[-9, -9, 369, -9, -9, -9, 369, -9, -9, 369]"
+6,bearish_engulfing,chfjpy,1day,all time,257,5351.850000000026,-179.82000000000002,29.8,sell limit,0.1,2.1,0.1,14,"[209.99, -9.99, 209.99, 209.99, -9.99, -9.99, -9.99, -9.99, 209.99, -9.99]"
+7,bearish_engulfing,chfjpy,1day,all time,257,5032.190000000028,-179.82000000000002,28.0,sell limit,0.1,1.9,0.1,14,"[190.0, -9.99, 190.0, 190.0, -9.99, -9.99, -9.99, -9.99, 190.0, -9.99]"
+8,bearish_engulfing,chfjpy,1day,all time,264,4502.30000000003,-409.5900000000002,11.0,sell limit,0.0,2.0,0.1,12,"[-9.99, 200.0, 200.0, 200.0, -9.99, -9.99, -9.99, -9.99, 200.0, -9.99]"
+9,bearish_engulfing,chfjpy,1day,all time,243,4412.240000000031,-339.66000000000014,13.0,sell limit,0.1,3.5,0.1,7,"[-9.99, -9.99, -9.99, -9.99, 350.0, 350.0, -9.99, -9.99, -9.99, -9.99]"
+10,bearish_engulfing,chfjpy,1day,all time,261,4231.470000000015,-149.85,28.2,sell limit,0.1,1.1,0.1,21,"[109.99, -9.99, 109.99, 109.99, -9.99, -9.99, -9.99, -9.99, 109.99, -9.99]"
+11,bearish_engulfing,chfjpy,1day,all time,264,4201.930000000023,-339.66000000000014,12.4,sell limit,0.0,1.8,0.1,13,"[-9.99, 179.99, 179.99, 179.99, -9.99, -9.99, -9.99, -9.99, 179.99, -9.99]"

@@ -1,0 +1,13 @@
+,strategy,currency_name,timeframe,optimized_period,total_orders,profit,max_drawdown,profit-factor,order_type,enter_point,tp,sl,%_wins,streak
+0,shooting_star,euraud,1day,all time,117,6718.0,-126.0,53.3,sell limit,0.002,0.04,0.001,16,"[-9, -9, -9, -9, -9, 400, -9, -9, -9, -9]"
+1,shooting_star,euraud,1day,all time,120,6552.0,-406.0,16.1,sell limit,0.001,0.039,0.003,19,"[-29, 389, -29, 389, -29, 389, -29, -29, -29, -29]"
+2,shooting_star,euraud,1day,all time,117,6509.0,-126.0,51.7,sell limit,0.002,0.039,0.001,16,"[-9, -9, -9, -9, -9, 389, -9, -9, -9, -9]"
+3,shooting_star,euraud,1day,all time,116,6500.0,-280.0,23.2,sell limit,0.002,0.04,0.002,18,"[-20, -20, -20, 400, -20, 400, -20, -20, -20, -20]"
+4,shooting_star,euraud,1day,all time,121,6473.0,-126.0,51.4,sell limit,0.001,0.039,0.001,15,"[-9, 389, -9, -9, -9, 389, -9, -9, -9, -9]"
+5,shooting_star,euraud,1day,all time,119,6379.0,-108.0,59.1,sell limit,0.002,0.029,0.001,21,"[-9, -9, -9, -9, -9, 289, -9, -9, -9, -9]"
+6,shooting_star,chfjpy,1day,all time,70,3309.99,-360.0,9.2,sell limit,0.4,2.2,0.9,44,"[220.0, 220.0, -90.0, -90.0, -90.0, -90.0, 220.0, -90.0, -90.0, -90.0]"
+7,shooting_star,chfjpy,1day,all time,70,3299.6799999999976,-360.0,9.2,sell limit,0.4,2.1,0.9,45,"[209.99, 209.99, -90.0, -90.0, -90.0, -90.0, 209.99, -90.0, -90.0, -90.0]"
+8,shooting_star,chfjpy,1day,all time,65,3120.0,-540.0,5.8,sell limit,0.4,3.0,0.9,35,"[300.0, 300.0, -90.0, -90.0, -90.0, -90.0, 300.0, -90.0, -90.0, -90.0]"
+9,shooting_star,chfjpy,1day,all time,67,3069.739999999999,-540.0,5.7,sell limit,0.4,2.6,0.9,38,"[259.99, 259.99, -90.0, -90.0, -90.0, -90.0, 259.99, -90.0, -90.0, -90.0]"
+10,shooting_star,chfjpy,1day,all time,73,2820.420000000003,-549.9499999999999,5.1,sell limit,0.2,2.4,1.1,42,"[-109.99, -109.99, -109.99, -109.99, 240.0, -109.99, -109.99, -109.99, 240.0, 240.0]"
+11,shooting_star,chfjpy,1day,all time,67,2810.0,-540.0,5.2,sell limit,0.4,2.5,0.9,38,"[250.0, 250.0, -90.0, -90.0, -90.0, -90.0, 250.0, -90.0, -90.0, -90.0]"
